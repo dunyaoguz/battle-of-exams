@@ -41,7 +41,7 @@ Final recommendations to the College Board are as follows:
 
 - Focus marketing dollars in the West and East coast as students in these states have the highest likelihood of choosing the SAT over the ACT. Since the decision to take which exam is largely a factor of where students live, trying to grab the extra market share in areas where SAT is more popular will have a higher possibility of yielding favorable outcomes at a lower cost than trying to establish SAT as an alternative in markets where the ACT dominates.
 
-- Try to win states where ACT is mandatory by going directly to the policy makers. Spending marketing dollars in states where the ACT is mandatory will be a waste of money. Since universities accept both tests, most students only take either the SAT or the ACT, as shown by the high negative relationship between participation_act and participation_sat in our dataset. Instead, the College Board should take a top down approach and place its efforts directly with the policy makers.
+- Try to win states where ACT is mandatory by going directly to the policy makers. Spending marketing dollars in states where the ACT is mandatory will be a waste of money. Since universities accept both tests, most students only take either the SAT or the ACT, as shown by the high negative correlation between participation_act and participation_sat in our dataset. Instead, the College Board should take a top down approach and place its efforts directly with the policy makers.
 
 #### Future Considerations
 
