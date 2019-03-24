@@ -10,7 +10,7 @@ The SAT (Scholastic Assessment Test) is a standardized test used for college adm
 
 Both exams are nationally recognized in the U.S. and are common admission requirements to universities. In some states, it is mandatory for all high school students to take the ACTs or the SATs. Since universities accept scores from either the SAT or the ACT, students can decide which one they want to take or take both exams.
 
-Data was collected on participation rates and mean scores of the SATs and ACTs for the years 2017 and 2018 following certain structural and content changes commissioned to the exam in 2016. This study analyses the data at hand to make recommendations to College Board about which states money would be best spent in to improve SAT participation rates. A number of interesting discoveries are made regarding SAT/ACT participation rates across the U.S., the relationship of participation rates with mean scores, and the reasons behind why some states decide to make one exam over the other mandatory.
+Data was collected on participation rates and mean scores of the SATs and ACTs for the years 2017 and 2018 following certain structural and content changes commissioned to the SAT by College Board in 2016. This study analyses the data at hand to make recommendations to College Board about which states money would be best spent in to improve SAT participation rates. A number of interesting discoveries are made regarding SAT/ACT participation rates across the U.S., the relationship of participation rates with mean scores, and the reasons behind why some states decide to make one exam over the other mandatory.
 
 Final recommendations to the College Board are as follows:
 - Keep improving the SAT
